@@ -1,5 +1,5 @@
 //main.cpp
-#include <Stdio.h>
+#include <stdio.h>
 #include "sum.h"
 
 int main(){
